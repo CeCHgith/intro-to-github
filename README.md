@@ -19,4 +19,8 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 *Вторая правка*
 
+Третье изменение
+
+4-ое. Для ещё одного сохранения
+
 
